@@ -1,9 +1,12 @@
+
 body {
   font-family: Arial, sans-serif;
   background-color: #1a1a1a;
   color: #ffffff;
   margin: 0;
   padding: 0 100px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 header {
