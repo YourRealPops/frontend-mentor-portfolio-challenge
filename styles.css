@@ -471,8 +471,8 @@ nav{
 main{
  padding: 0;
   display: block;
-  height: 100%;
-  overflow: hidden;
+  /* height: 100%; */
+  overflow-x: hidden;
 }
   .profile-image img {
     width: 100%;
