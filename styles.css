@@ -479,6 +479,9 @@ nav{
     /* height: ; */
     max-height: 100%;
   }
+  button.contact-btn{
+    font-size: 1rem;
+  }
 
   section.skillset {
     margin: 0;
