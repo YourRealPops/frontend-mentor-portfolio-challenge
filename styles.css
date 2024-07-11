@@ -472,7 +472,7 @@ nav{
     padding: 0;
     display: block;
     height: 100vh;
-    overflow-x: hidden;
+    overflow: hidden;
   }
   .profile-image img {
     width: 100%;
