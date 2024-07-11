@@ -436,7 +436,7 @@ nav{
      position: relative;
     align-items: center; 
     left: auto;
-    right: -50px;
+    right: -100px;
   }
 nav{
   display: block;
@@ -449,7 +449,9 @@ nav{
     position: relative;
     left: 0;
     text-align: center;
-    top: -450px;
+    top: -550px;
+    margin: 0;
+    padding: 0;
   } 
   .intro {
     position: relative;
@@ -467,7 +469,10 @@ nav{
   }
 
 main{
+ padding: 0;
   display: block;
+  height: 100vh;
+  overflow: hidden;
 }
   .profile-image img {
     width: 100%;
