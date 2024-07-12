@@ -390,11 +390,11 @@ button {
   right: 60px; 
 }
 .display-pic img{
-  height: 80vh;
+  height: 70vh;
 }
 .intro-content{
   max-width: 100%;
-  top: 550px;
+  top: 500px;
   text-align: center;
 }
 .intro-content h1{
